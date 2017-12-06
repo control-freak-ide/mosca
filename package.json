@@ -1,6 +1,6 @@
 {
-  "name": "mosca",
-  "version": "2.7.1",
+  "name": "@xblox/mosca",
+  "version": "2.7.2",
   "description": "MQTT broker as a module",
   "main": "index.js",
   "bin": {
